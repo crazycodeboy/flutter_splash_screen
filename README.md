@@ -1,7 +1,7 @@
 # flutter_splash_screen
 
 
-[![Download](https://img.shields.io/badge/Download-v0.1.0-ff69b4.svg) ](https://www.npmjs.com/package/flutter_splash_screen)
+[![Download](https://img.shields.io/badge/Download-v0.1.0-ff69b4.svg) ](https://pub.dartlang.org/packages/flutter_splash_screen)
 [ ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](https://github.com/crazycodeboy/flutter_splash_screen/pulls)
 [ ![flutter_splash_screen release](https://img.shields.io/github/release/crazycodeboy/flutter_splash_screen.svg?maxAge=2592000?style=flat-square)](https://github.com/crazycodeboy/GitHubPopular/releases)
 [ ![语言 中文](https://img.shields.io/badge/语言-中文-feb252.svg)](https://github.com/crazycodeboy/flutter_splash_screen/blob/master/README.zh.md)
