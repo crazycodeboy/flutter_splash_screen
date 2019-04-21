@@ -1,6 +1,6 @@
 name: flutter_splash_screen
 description: A splash screen API for flutter which can programatically hide and show the splash screen. Works on Android and iOS.
-version: 0.1.0
+version: 0.2.0
 author: CrazyCodeBoy <crazycodeboy@gmail.com>
 homepage: https://github.com/crazycodeboy/flutter_splash_screen
 
