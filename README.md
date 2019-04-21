@@ -6,7 +6,7 @@
 [ ![flutter_splash_screen release](https://img.shields.io/github/release/crazycodeboy/flutter_splash_screen.svg?maxAge=2592000?style=flat-square)](https://github.com/crazycodeboy/GitHubPopular/releases)
 [ ![语言 中文](https://img.shields.io/badge/语言-中文-feb252.svg)](https://github.com/crazycodeboy/flutter_splash_screen/blob/master/README.zh.md)
 [![License MIT](http://img.shields.io/badge/license-MIT-orange.svg?style=flat)](https://raw.githubusercontent.com/crazycodeboy/flutter-check-box/master/LICENSE)
-[ ![RN](https://img.shields.io/badge/flutter-brightgreen.svg)](https://github.com/crazycodeboy/flutter_splash_screen)
+[ ![RN](https://img.shields.io/badge/react-native-brightgreen.svg)](https://github.com/crazycodeboy/react-native-splash-screen)
 
 A splash screen API for flutter which can programatically hide and show the splash screen. Works on Android and iOS.
 
@@ -27,10 +27,10 @@ A splash screen API for flutter which can programatically hide and show the spla
 
 
 ## Examples  
-* [Examples](https://github.com/crazycodeboy/flutter_splash_screen/tree/master/examples)
+* [Examples](https://github.com/crazycodeboy/flutter_splash_screen/tree/master/example)
 
-![flutter_splash_screen-Android](https://raw.githubusercontent.com/crazycodeboy/flutter_splash_screen/v3.0.0/examples/Screenshots/flutter_splash_screen-Android.gif)
-![flutter_splash_screen-iOS](https://raw.githubusercontent.com/crazycodeboy/flutter_splash_screen/v3.0.0/examples/Screenshots/flutter_splash_screen-iOS.gif)
+![flutter_splash_screen-Android](https://raw.githubusercontent.com/crazycodeboy/react-native-splash-screen/v3.0.0/examples/Screenshots/react-native-splash-screen-Android.gif)
+![flutter_splash_screen-iOS](https://raw.githubusercontent.com/crazycodeboy/react-native-splash-screen/v3.0.0/examples/Screenshots/react-native-splash-screen-iOS.gif)
 
 
 
@@ -145,7 +145,7 @@ Open `android/app/src/main/res/values/styles.xml` and add `<item name="android:w
 </resources>
 ```
 
-**To learn more see [examples](https://github.com/crazycodeboy/flutter_splash_screen/tree/master/examples)**
+**To learn more see [examples](https://github.com/crazycodeboy/flutter_splash_screen/tree/master/example)**
 
 
 If you want to customize the color of the status bar when the splash screen is displayed:
@@ -179,7 +179,7 @@ SplashScreen.show(this, R.style.SplashScreenTheme);
 
 Customize your splash screen via  `LaunchScreen.storyboard`,
 
-**Learn more to see [examples](https://github.com/crazycodeboy/flutter_splash_screen/tree/master/examples)**
+**Learn more to see [examples](https://github.com/crazycodeboy/flutter_splash_screen/tree/master/example)**
 
 ## Usage
 
