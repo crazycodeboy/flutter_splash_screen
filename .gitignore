@@ -1,0 +1,14 @@
+.DS_Store
+.dart_tool/
+
+.packages
+.pub/
+
+build/
+.idea/
+
+flutter_export_environment.sh
+Generated.xcconfig
+path_provider_linux
+Flutter-Generated.xcconfig
+.flutter-plugins-dependencies
