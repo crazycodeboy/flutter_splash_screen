@@ -7,7 +7,7 @@ import android.os.Build;
 import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;
-
+import org.devio.flutter.splashscreen.flutter_splash_screen.R;
 import java.lang.ref.WeakReference;
 
 /**
