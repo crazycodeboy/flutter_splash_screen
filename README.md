@@ -26,8 +26,8 @@ Android and iOS.
 
 * [Examples](https://github.com/crazycodeboy/flutter_splash_screen/tree/master/example)
 
-![flutter_splash_screen-Android](https://raw.githubusercontent.com/crazycodeboy/react-native-splash-screen/v3.0.0/examples/Screenshots/react-native-splash-screen-Android.gif)
-![flutter_splash_screen-iOS](https://raw.githubusercontent.com/crazycodeboy/react-native-splash-screen/v3.0.0/examples/Screenshots/react-native-splash-screen-iOS.gif)
+![flutter_splash_screen-Android](https://raw.githubusercontent.com/crazycodeboy/flutter_splash_screen/master/example/Screenshots/flutter-splash-screen-android.gif)
+![flutter_splash_screen-iOS](https://raw.githubusercontent.com/crazycodeboy/flutter_splash_screen/master/example/Screenshots/flutter-splash-screen-iOS.gif)
 
 ## 1. Installation
 
