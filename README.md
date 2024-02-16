@@ -1,6 +1,6 @@
 # flutter_splash_screen
 
-[![Download](https://img.shields.io/badge/Download-v2.0.0-ff69b4.svg) ](https://pub.dartlang.org/packages/flutter_splash_screen)
+[![Download](https://img.shields.io/badge/Download-v3.0.0-ff69b4.svg) ](https://pub.dartlang.org/packages/flutter_splash_screen)
 [ ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](https://github.com/crazycodeboy/flutter_splash_screen/pulls)
 [ ![flutter_splash_screen release](https://img.shields.io/github/release/crazycodeboy/flutter_splash_screen.svg?maxAge=2592000?style=flat-square)](https://github.com/crazycodeboy/GitHubPopular/releases)
 [![License MIT](http://img.shields.io/badge/license-MIT-orange.svg?style=flat)](https://raw.githubusercontent.com/crazycodeboy/flutter-check-box/master/LICENSE)

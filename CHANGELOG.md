@@ -1,3 +1,5 @@
+## 3.0.0
+- fix uses a deprecated version of the Android embedding. 
 ## 2.0.0
 - fix not being able to fully screen on higher versions of Android
 ## 0.3.0
